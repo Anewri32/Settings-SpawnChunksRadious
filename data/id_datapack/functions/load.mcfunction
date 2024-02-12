@@ -1,0 +1,2 @@
+gamerule spawnChunkRadius 12
+

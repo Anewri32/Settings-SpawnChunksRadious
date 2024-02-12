@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 3,
+    "name" : "Settings SpawnChunksRadious",
+    "description": "This datapack allows you to adjust the spawnChunks of the game without the need to activate cheats."
+  }
+}
